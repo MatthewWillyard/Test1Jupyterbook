@@ -13,7 +13,7 @@ project:
   lite: true
   # Information about where the book exists on the web
   repository:
-    url                       : https://colab.research.google.com/github/MatthewWillyard/Test1Jupyterbook # Online location of your book
+    url                       : https://github.com/MatthewWillyard/Test1Jupyterbook # Online location of your book
     path_to_book              :   # Optional path to your book, relative to the repository root
     branch                    : main 
   launch_buttons:
