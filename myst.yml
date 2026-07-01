@@ -29,6 +29,7 @@ project:
 
 
 
+
 site:
   template: book-theme
   #title: Fancy Title
@@ -36,6 +37,9 @@ site:
   #   favicon: favicon.ico
   options:
     logo: PSU_DEPTofMATHEMATICS_H_2C-eps-converted-to.pdf
+    kernelspec:
+      name: "python3"
+      display_name: "Python 3"
   actions:
     - title: Google colab button
       url: "https://colab.research.google.com/github/MatthewWillyard/Test1Jupyterbook/blob/main/Math441Outline.ipynb"
